@@ -11,6 +11,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+# KerasNLP requires Python 3.7+ and TensorFlow 2.9+
+# KerasNLP metrics are keras.Metric subclasses for NLP-specific use cases.
 
 from keras_nlp import layers
 from keras_nlp import metrics
